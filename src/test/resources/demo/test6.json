@@ -1,0 +1,54 @@
+{
+  "result" : {
+    "address_components" : [
+      {
+        "long_name" : "48",
+        "short_name" : "48",
+        "types" : [ "street_number" ]
+      },
+      {
+        "long_name" : "Pirrama Road",
+        "short_name" : "Pirrama Road",
+        "types" : [ "route" ]
+      },
+      {
+        "long_name" : "Pyrmont",
+        "short_name" : "Pyrmont",
+        "types" : [ "locality", "political" ]
+      },
+      {
+        "long_name" : "NSW",
+        "short_name" : "NSW",
+        "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+        "long_name" : "AU",
+        "short_name" : "AU",
+        "types" : [ "country", "political" ]
+      },
+      {
+        "long_name" : "2009",
+        "short_name" : "2009",
+        "types" : [ "postal_code" ]
+      }
+    ],
+    "formatted_address" : "48 Pirrama Road, Pyrmont NSW, Australia",
+    "formatted_phone_number" : "(02) 9374 4000",
+    "geometry" : {
+      "location" : {
+        "lat" : -33.8669710,
+        "lng" : 151.1958750
+      },
+      "viewport" : {
+        "northeast" : {
+          "lat" : -33.8665053,
+          "lng" : 151.1960371
+        },
+        "southwest" : {
+          "lat" : -33.8669293,
+          "lng" : 151.1952183
+        }
+      }
+    }
+  }
+}
